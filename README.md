@@ -1,7 +1,7 @@
 helloworld-django-fabric
 ========================
 
-fabric script to setup django application  on aws
+one-comman fabric script to setup django application  on aws
 
 The django stack used is:
 -django
